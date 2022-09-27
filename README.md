@@ -14,16 +14,13 @@ Running it at 1 thread (fairly slow, 1 tab):
 ![image](https://user-images.githubusercontent.com/66729830/192599237-8d017b71-f4bb-44fb-9928-3a550a1900c9.png)
 
 
-
 Running at 10 threads (very fast, 10 tabs):
 
 ![image](https://user-images.githubusercontent.com/66729830/192599671-44e49b3a-dc60-4375-8d73-5d9b8d2bc5c4.png)
 
 ![image](https://user-images.githubusercontent.com/66729830/192599673-53bfd928-7d43-473f-b1a5-18604d719f43.png)
 
-https://user-images.githubusercontent.com/66729830/192599802-ab138e9c-4ef3-421b-bf47-eccd49e08291.mp4
-
-
+https://user-images.githubusercontent.com/66729830/192600059-a0c362a6-a941-4af2-a681-e109cd273b92.mp4
 
 
 # How it works?
